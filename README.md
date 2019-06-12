@@ -57,7 +57,15 @@ source bin/activate (The result should look alott like -----> (yourenv) Norm-iMa
 6.***Install Django:***
 ```
 pip install django==1.11.2
+
 ```
+
+7.***Run Local Server:***
+```
+$ python manage.py runserver
+```
+
+
 
 7. Happy Coding !!!!!!!!!!!
 
