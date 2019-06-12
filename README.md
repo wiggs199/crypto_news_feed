@@ -64,9 +64,9 @@ pip install django==1.11.2
 ```
 $ python manage.py runserver
 ```
-```
-When you run the server , it should look like this :
 
+When you run the server , it should look like this :
+```
 Performing system checks...
 
 System check identified no issues (0 silenced).
