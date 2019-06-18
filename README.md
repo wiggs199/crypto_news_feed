@@ -23,7 +23,7 @@ brew install python
 ```
 python3 -V
   ``` 
-***Now install Django/Virtualenv on Mac OS X or Linux. Django will be the frameowrk , and VirtualEnv(virtualenv) is a tool used to keep projects with different software versions nice and safe :)***
+***Now install Django/Virtualenv on Mac OS X or Linux. Django will be the framework , and VirtualEnv(virtualenv) is a tool used to keep projects with different software versions nice and safe :)***
 
 1.***Install Pip.(Python Package Installer):***
 ```
