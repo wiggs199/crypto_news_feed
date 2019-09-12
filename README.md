@@ -62,7 +62,7 @@ pip install django==1.11.2
 
 7.***Run Local Server:***
 ```
-$ python manage.py runserver
+$ python3 manage.py runserver
 ```
 
 When you run the server , it should look like this :
